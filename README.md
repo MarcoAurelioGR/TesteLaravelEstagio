@@ -1,7 +1,8 @@
 # TesteLaravelEstagio - Anotações 
 ### Este foi um teste pequeno para um estágio, onde faria uso de PHP e Laravel. 
-### Deixo aqui algumas anotações
-#
+
+<br>
+
 #### Iniando projeto em Laravel
 <code>
 composer create-project laravel/laravel name-example-app
