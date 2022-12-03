@@ -1,0 +1,42 @@
+#navbar {
+    background-color: #215967;
+}
+
+#subheader {
+    background-color: #31869B;
+    max-height: 20px;
+    font-size: 12px;
+}
+
+.col-md-12,
+tr {
+    background-color: #B7DEE8;
+}
+
+.form-control,
+.form-select {
+    background-color: #92D050 !important;
+    border-color: #215967 !important;
+}
+
+.container-fluid {
+    margin-top: 10px;
+}
+
+.btn-primary {
+    background-color: #31869B !important;
+    border-color: #31869B !important;
+    width: 300px !important;
+}
+
+.form-select {
+    height: 38px;
+    border-radius: 5px;
+}
+
+td,
+tr,
+th,
+.table-bordered {
+    border-color: #215967 !important;
+}
