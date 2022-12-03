@@ -11,7 +11,7 @@ composer create-project laravel/laravel example-name-app
 
 #### Criando Controller em Laravel
 <code>
-php artisan make:Controller example-name-controller
+php artisan make:controller example-name-controller
 </code>
 
 #### Iniciando server para desenvolver com Laravel
