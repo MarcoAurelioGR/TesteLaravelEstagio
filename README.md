@@ -5,7 +5,13 @@
 
 #### Iniando projeto em Laravel
 <code>
-composer create-project laravel/laravel name-example-app
+composer create-project laravel/laravel example-name-app
+</code>
+
+
+#### Criando Controller em Laravel
+<code>
+php artisan make:Controller example-name-controller
 </code>
 
 #### Iniciando server para desenvolver com Laravel
