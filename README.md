@@ -1,4 +1,4 @@
-# TesteLaravelEstagio - Anotações 
+# TesteLaravelEstagio
 ### Este foi um teste pequeno para um estágio, onde faria uso de PHP e Laravel. 
 
 <br>
